@@ -1,0 +1,8 @@
+version: '3'
+services: 
+  php-server:
+    image: php:7.4.1-apache      # nome da imagem no docker hub
+    volumes: 
+      - ./project:/var/www/html/ # pega o projeto e copia para a imagem
+    ports: 
+      - "80:80"                  # porta 80 da maquina local ouve a porta da imagem         
