@@ -9,14 +9,4 @@
   <li>
     <a href="https://www.youtube.com/watch?v=Gm8LoDH2olA&list=PLEXr-WZRgPjx5JrhQO9GKK-oJpFqW1P3h">Sobre o curso</a>
   </li>
-
-  <li>
-    Instalação
-    <p>
-      <ol>
-        <li>Clone o repositório ou baixe o .zip</li>
-        <li>cd docker-com-php</li>
-      </ol>
-    </p>
-  </li>
 </ul>
