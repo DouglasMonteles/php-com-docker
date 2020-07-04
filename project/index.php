@@ -7,5 +7,6 @@
 </head>
 <body>
   <a href="imc/index.php">Calcule o IMC</a>
+  <a href="database/index.php">Database</a>
 </body>
 </html>
